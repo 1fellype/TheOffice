@@ -7,7 +7,7 @@
  - Projeto construído durante o curso PROPROFISSÃO.
 
 ## Acesso
- [Clique aqui para acessar! :)](https://1fellype.github.io/TheOffice/)
+ [Clique aqui para acessar! :)](https://theoffice-fellype.vercel.app/)
 
 ## Tecnologias
 
